@@ -1,0 +1,33 @@
+Total Iterations     : 758
+Total Epochs         : 1
+Total Sample-Points  : 51
+-------------------------------
+Loss - Train     : 0.00
+Loss - Test      : 0.00
+Acc - Train     : 100.00
+Acc - Test      : 99.90
+-------------------------------
+Start Time        : 06:49:27
+End Time          : 07:25:57
+Total Train-time  :  0:36:30
+
+
+
+
+Accuracy Analysis : 
+====================
+[Average]
+--- Maximum accuracy on test-set  : 99.90
+--- Iteration at maximum accuracy : 450
+[Absolute]
+--- Maximum accuracy on test-set  : 100.00
+--- Iteration at maximum accuracy : 105
+
+Loss Analysis : 
+====================
+[Average]
+--- Minimum loss on test-set  : 0.00
+--- Iteration at minimum loss : 450
+[Absolute]
+--- Minimum  loss on test-set  : 0.00
+--- Iteration at minimum loss : 105

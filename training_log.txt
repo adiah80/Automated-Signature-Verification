@@ -1,0 +1,1010 @@
+Iter 1 Done.	 Loss : 0.14557
+Iter 2 Done.	 Loss : 0.21168
+Iter 3 Done.	 Loss : 0.11992
+Iter 4 Done.	 Loss : 0.04521
+Iter 5 Done.	 Loss : 0.10324
+Iter 6 Done.	 Loss : 0.11340
+Iter 7 Done.	 Loss : 0.10455
+Iter 8 Done.	 Loss : 0.15453
+Iter 9 Done.	 Loss : 0.08825
+Iter 10 Done.	 Loss : 0.08118
+Iter 11 Done.	 Loss : 0.11669
+Iter 12 Done.	 Loss : 0.21851
+Iter 13 Done.	 Loss : 0.16140
+Iter 14 Done.	 Loss : 0.17823
+Iter 15 Done.	 Loss : 0.28434
+Iteration : 15/760 [ 2%] 
+---------------------------
+[Train]	 Loss: 0.28434 | Acc: 90%
+[Test ]	 Loss: 0.07691 | Acc: 97%
+=========================================================
+Iter 16 Done.	 Loss : 0.06771
+Iter 17 Done.	 Loss : 0.09421
+Iter 18 Done.	 Loss : 0.14141
+Iter 19 Done.	 Loss : 0.05604
+Iter 20 Done.	 Loss : 0.12675
+Iter 21 Done.	 Loss : 0.08704
+Iter 22 Done.	 Loss : 0.12934
+Iter 23 Done.	 Loss : 0.10722
+Iter 24 Done.	 Loss : 0.12542
+Iter 25 Done.	 Loss : 0.04365
+Iter 26 Done.	 Loss : 0.12651
+Iter 27 Done.	 Loss : 0.12307
+Iter 28 Done.	 Loss : 0.08618
+Iter 29 Done.	 Loss : 0.05183
+Iter 30 Done.	 Loss : 0.03513
+Iteration : 30/760 [ 4%] 
+---------------------------
+[Train]	 Loss: 0.03513 | Acc: 100%
+[Test ]	 Loss: 0.05231 | Acc: 98%
+=========================================================
+Iter 31 Done.	 Loss : 0.07757
+Iter 32 Done.	 Loss : 0.05548
+Iter 33 Done.	 Loss : 0.13307
+Iter 34 Done.	 Loss : 0.06423
+Iter 35 Done.	 Loss : 0.09676
+Iter 36 Done.	 Loss : 0.03183
+Iter 37 Done.	 Loss : 0.08352
+Iter 38 Done.	 Loss : 0.05199
+Iter 39 Done.	 Loss : 0.04702
+Iter 40 Done.	 Loss : 0.06836
+Iter 41 Done.	 Loss : 0.08562
+Iter 42 Done.	 Loss : 0.04121
+Iter 43 Done.	 Loss : 0.02137
+Iter 44 Done.	 Loss : 0.02705
+Iter 45 Done.	 Loss : 0.04771
+Iteration : 45/760 [ 6%] 
+---------------------------
+[Train]	 Loss: 0.04771 | Acc: 99%
+[Test ]	 Loss: 0.05005 | Acc: 98%
+=========================================================
+Iter 46 Done.	 Loss : 0.06888
+Iter 47 Done.	 Loss : 0.05880
+Iter 48 Done.	 Loss : 0.02857
+Iter 49 Done.	 Loss : 0.03597
+Iter 50 Done.	 Loss : 0.06454
+Iter 51 Done.	 Loss : 0.08365
+Iter 52 Done.	 Loss : 0.03410
+Iter 53 Done.	 Loss : 0.05433
+Iter 54 Done.	 Loss : 0.05341
+Iter 55 Done.	 Loss : 0.10030
+Iter 56 Done.	 Loss : 0.05245
+Iter 57 Done.	 Loss : 0.08076
+Iter 58 Done.	 Loss : 0.10843
+Iter 59 Done.	 Loss : 0.11835
+Iter 60 Done.	 Loss : 0.03176
+Iteration : 60/760 [ 8%] 
+---------------------------
+[Train]	 Loss: 0.03176 | Acc: 99%
+[Test ]	 Loss: 0.12153 | Acc: 95%
+=========================================================
+Iter 61 Done.	 Loss : 0.03595
+Iter 62 Done.	 Loss : 0.01089
+Iter 63 Done.	 Loss : 0.02019
+Iter 64 Done.	 Loss : 0.04376
+Iter 65 Done.	 Loss : 0.04817
+Iter 66 Done.	 Loss : 0.00405
+Iter 67 Done.	 Loss : 0.03448
+Iter 68 Done.	 Loss : 0.03800
+Iter 69 Done.	 Loss : 0.03190
+Iter 70 Done.	 Loss : 0.11027
+Iter 71 Done.	 Loss : 0.04101
+Iter 72 Done.	 Loss : 0.02629
+Iter 73 Done.	 Loss : 0.06654
+Iter 74 Done.	 Loss : 0.01953
+Iter 75 Done.	 Loss : 0.03884
+Iteration : 75/760 [10%] 
+---------------------------
+[Train]	 Loss: 0.03884 | Acc: 99%
+[Test ]	 Loss: 0.03197 | Acc: 99%
+=========================================================
+Iter 76 Done.	 Loss : 0.06406
+Iter 77 Done.	 Loss : 0.09432
+Iter 78 Done.	 Loss : 0.03979
+Iter 79 Done.	 Loss : 0.05243
+Iter 80 Done.	 Loss : 0.02018
+Iter 81 Done.	 Loss : 0.00979
+Iter 82 Done.	 Loss : 0.02009
+Iter 83 Done.	 Loss : 0.01721
+Iter 84 Done.	 Loss : 0.00950
+Iter 85 Done.	 Loss : 0.01423
+Iter 86 Done.	 Loss : 0.06109
+Iter 87 Done.	 Loss : 0.00898
+Iter 88 Done.	 Loss : 0.00554
+Iter 89 Done.	 Loss : 0.02641
+Iter 90 Done.	 Loss : 0.03472
+Iteration : 90/760 [12%] 
+---------------------------
+[Train]	 Loss: 0.03472 | Acc: 99%
+[Test ]	 Loss: 0.05173 | Acc: 98%
+=========================================================
+Iter 91 Done.	 Loss : 0.05283
+Iter 92 Done.	 Loss : 0.02987
+Iter 93 Done.	 Loss : 0.00817
+Iter 94 Done.	 Loss : 0.00932
+Iter 95 Done.	 Loss : 0.03743
+Iter 96 Done.	 Loss : 0.02809
+Iter 97 Done.	 Loss : 0.00650
+Iter 98 Done.	 Loss : 0.02005
+Iter 99 Done.	 Loss : 0.02829
+Iter 100 Done.	 Loss : 0.01798
+Iter 101 Done.	 Loss : 0.05279
+Iter 102 Done.	 Loss : 0.05580
+Iter 103 Done.	 Loss : 0.06461
+Iter 104 Done.	 Loss : 0.01913
+Iter 105 Done.	 Loss : 0.00561
+Iteration : 105/760 [14%] 
+---------------------------
+[Train]	 Loss: 0.00561 | Acc: 100%
+[Test ]	 Loss: 0.00000 | Acc: 100%
+=========================================================
+Iter 106 Done.	 Loss : 0.03624
+Iter 107 Done.	 Loss : 0.02400
+Iter 108 Done.	 Loss : 0.01897
+Iter 109 Done.	 Loss : 0.03626
+Iter 110 Done.	 Loss : 0.01286
+Iter 111 Done.	 Loss : 0.01209
+Iter 112 Done.	 Loss : 0.01007
+Iter 113 Done.	 Loss : 0.03286
+Iter 114 Done.	 Loss : 0.00000
+Iter 115 Done.	 Loss : 0.02470
+Iter 116 Done.	 Loss : 0.04050
+Iter 117 Done.	 Loss : 0.01131
+Iter 118 Done.	 Loss : 0.02468
+Iter 119 Done.	 Loss : 0.01268
+Iter 120 Done.	 Loss : 0.00000
+Iteration : 120/760 [16%] 
+---------------------------
+[Train]	 Loss: 0.00000 | Acc: 100%
+[Test ]	 Loss: 0.01101 | Acc: 99%
+=========================================================
+Iter 121 Done.	 Loss : 0.03332
+Iter 122 Done.	 Loss : 0.01218
+Iter 123 Done.	 Loss : 0.00320
+Iter 124 Done.	 Loss : 0.03479
+Iter 125 Done.	 Loss : 0.00229
+Iter 126 Done.	 Loss : 0.00832
+Iter 127 Done.	 Loss : 0.03550
+Iter 128 Done.	 Loss : 0.01428
+Iter 129 Done.	 Loss : 0.03841
+Iter 130 Done.	 Loss : 0.01029
+Iter 131 Done.	 Loss : 0.06962
+Iter 132 Done.	 Loss : 0.00760
+Iter 133 Done.	 Loss : 0.05042
+Iter 134 Done.	 Loss : 0.06471
+Iter 135 Done.	 Loss : 0.00365
+Iteration : 135/760 [18%] 
+---------------------------
+[Train]	 Loss: 0.00365 | Acc: 100%
+[Test ]	 Loss: 0.02676 | Acc: 100%
+=========================================================
+Iter 136 Done.	 Loss : 0.00676
+Iter 137 Done.	 Loss : 0.01500
+Iter 138 Done.	 Loss : 0.02154
+Iter 139 Done.	 Loss : 0.06095
+Iter 140 Done.	 Loss : 0.02328
+Iter 141 Done.	 Loss : 0.08534
+Iter 142 Done.	 Loss : 0.00895
+Iter 143 Done.	 Loss : 0.01225
+Iter 144 Done.	 Loss : 0.01281
+Iter 145 Done.	 Loss : 0.01640
+Iter 146 Done.	 Loss : 0.01244
+Iter 147 Done.	 Loss : 0.02426
+Iter 148 Done.	 Loss : 0.00125
+Iter 149 Done.	 Loss : 0.00000
+Iter 150 Done.	 Loss : 0.00000
+Iteration : 150/760 [20%] 
+---------------------------
+[Train]	 Loss: 0.00000 | Acc: 100%
+[Test ]	 Loss: 0.01472 | Acc: 99%
+=========================================================
+Iter 151 Done.	 Loss : 0.01323
+Iter 152 Done.	 Loss : 0.02014
+Iter 153 Done.	 Loss : 0.04379
+Iter 154 Done.	 Loss : 0.05184
+Iter 155 Done.	 Loss : 0.03519
+Iter 156 Done.	 Loss : 0.05188
+Iter 157 Done.	 Loss : 0.02880
+Iter 158 Done.	 Loss : 0.05233
+Iter 159 Done.	 Loss : 0.00000
+Iter 160 Done.	 Loss : 0.00189
+Iter 161 Done.	 Loss : 0.04018
+Iter 162 Done.	 Loss : 0.00448
+Iter 163 Done.	 Loss : 0.01547
+Iter 164 Done.	 Loss : 0.02518
+Iter 165 Done.	 Loss : 0.00000
+Iteration : 165/760 [22%] 
+---------------------------
+[Train]	 Loss: 0.00000 | Acc: 100%
+[Test ]	 Loss: 0.03242 | Acc: 99%
+=========================================================
+Iter 166 Done.	 Loss : 0.01447
+Iter 167 Done.	 Loss : 0.00000
+Iter 168 Done.	 Loss : 0.00224
+Iter 169 Done.	 Loss : 0.02638
+Iter 170 Done.	 Loss : 0.01025
+Iter 171 Done.	 Loss : 0.00472
+Iter 172 Done.	 Loss : 0.01778
+Iter 173 Done.	 Loss : 0.05179
+Iter 174 Done.	 Loss : 0.01549
+Iter 175 Done.	 Loss : 0.00296
+Iter 176 Done.	 Loss : 0.01939
+Iter 177 Done.	 Loss : 0.01740
+Iter 178 Done.	 Loss : 0.02227
+Iter 179 Done.	 Loss : 0.00829
+Iter 180 Done.	 Loss : 0.02454
+Iteration : 180/760 [24%] 
+---------------------------
+[Train]	 Loss: 0.02454 | Acc: 99%
+[Test ]	 Loss: 0.01427 | Acc: 99%
+=========================================================
+Iter 181 Done.	 Loss : 0.02462
+Iter 182 Done.	 Loss : 0.01769
+Iter 183 Done.	 Loss : 0.02716
+Iter 184 Done.	 Loss : 0.01013
+Iter 185 Done.	 Loss : 0.06035
+Iter 186 Done.	 Loss : 0.01727
+Iter 187 Done.	 Loss : 0.00557
+Iter 188 Done.	 Loss : 0.04214
+Iter 189 Done.	 Loss : 0.01211
+Iter 190 Done.	 Loss : 0.04358
+Iter 191 Done.	 Loss : 0.01934
+Iter 192 Done.	 Loss : 0.00224
+Iter 193 Done.	 Loss : 0.00000
+Iter 194 Done.	 Loss : 0.00633
+Iter 195 Done.	 Loss : 0.01450
+Iteration : 195/760 [26%] 
+---------------------------
+[Train]	 Loss: 0.01450 | Acc: 99%
+[Test ]	 Loss: 0.01223 | Acc: 99%
+=========================================================
+Iter 196 Done.	 Loss : 0.00000
+Iter 197 Done.	 Loss : 0.03378
+Iter 198 Done.	 Loss : 0.00535
+Iter 199 Done.	 Loss : 0.00378
+Iter 200 Done.	 Loss : 0.01261
+Iter 201 Done.	 Loss : 0.01187
+Iter 202 Done.	 Loss : 0.02785
+Iter 203 Done.	 Loss : 0.04122
+Iter 204 Done.	 Loss : 0.00399
+Iter 205 Done.	 Loss : 0.00705
+Iter 206 Done.	 Loss : 0.01873
+Iter 207 Done.	 Loss : 0.00104
+Iter 208 Done.	 Loss : 0.03819
+Iter 209 Done.	 Loss : 0.00609
+Iter 210 Done.	 Loss : 0.00831
+Iteration : 210/760 [28%] 
+---------------------------
+[Train]	 Loss: 0.00831 | Acc: 100%
+[Test ]	 Loss: 0.00521 | Acc: 100%
+=========================================================
+Iter 211 Done.	 Loss : 0.01715
+Iter 212 Done.	 Loss : 0.00000
+Iter 213 Done.	 Loss : 0.02605
+Iter 214 Done.	 Loss : 0.01251
+Iter 215 Done.	 Loss : 0.00158
+Iter 216 Done.	 Loss : 0.01230
+Iter 217 Done.	 Loss : 0.00266
+Iter 218 Done.	 Loss : 0.01261
+Iter 219 Done.	 Loss : 0.00000
+Iter 220 Done.	 Loss : 0.02017
+Iter 221 Done.	 Loss : 0.00841
+Iter 222 Done.	 Loss : 0.00171
+Iter 223 Done.	 Loss : 0.00420
+Iter 224 Done.	 Loss : 0.02727
+Iter 225 Done.	 Loss : 0.00000
+Iteration : 225/760 [30%] 
+---------------------------
+[Train]	 Loss: 0.00000 | Acc: 100%
+[Test ]	 Loss: 0.00763 | Acc: 100%
+=========================================================
+Iter 226 Done.	 Loss : 0.00706
+Iter 227 Done.	 Loss : 0.00771
+Iter 228 Done.	 Loss : 0.00562
+Iter 229 Done.	 Loss : 0.00979
+Iter 230 Done.	 Loss : 0.01699
+Iter 231 Done.	 Loss : 0.00000
+Iter 232 Done.	 Loss : 0.01890
+Iter 233 Done.	 Loss : 0.00376
+Iter 234 Done.	 Loss : 0.00079
+Iter 235 Done.	 Loss : 0.01014
+Iter 236 Done.	 Loss : 0.02639
+Iter 237 Done.	 Loss : 0.01799
+Iter 238 Done.	 Loss : 0.00395
+Iter 239 Done.	 Loss : 0.00679
+Iter 240 Done.	 Loss : 0.00000
+Iteration : 240/760 [32%] 
+---------------------------
+[Train]	 Loss: 0.00000 | Acc: 100%
+[Test ]	 Loss: 0.02232 | Acc: 99%
+=========================================================
+Iter 241 Done.	 Loss : 0.01362
+Iter 242 Done.	 Loss : 0.00000
+Iter 243 Done.	 Loss : 0.01116
+Iter 244 Done.	 Loss : 0.01784
+Iter 245 Done.	 Loss : 0.00000
+Iter 246 Done.	 Loss : 0.04178
+Iter 247 Done.	 Loss : 0.00000
+Iter 248 Done.	 Loss : 0.00839
+Iter 249 Done.	 Loss : 0.00661
+Iter 250 Done.	 Loss : 0.01715
+Iter 251 Done.	 Loss : 0.01412
+Iter 252 Done.	 Loss : 0.00103
+Iter 253 Done.	 Loss : 0.00390
+Iter 254 Done.	 Loss : 0.00000
+Iter 255 Done.	 Loss : 0.02406
+Iteration : 255/760 [34%] 
+---------------------------
+[Train]	 Loss: 0.02406 | Acc: 99%
+[Test ]	 Loss: 0.00398 | Acc: 100%
+=========================================================
+Iter 256 Done.	 Loss : 0.00000
+Iter 257 Done.	 Loss : 0.00586
+Iter 258 Done.	 Loss : 0.00414
+Iter 259 Done.	 Loss : 0.00170
+Iter 260 Done.	 Loss : 0.00000
+Iter 261 Done.	 Loss : 0.01619
+Iter 262 Done.	 Loss : 0.01772
+Iter 263 Done.	 Loss : 0.00000
+Iter 264 Done.	 Loss : 0.00000
+Iter 265 Done.	 Loss : 0.00600
+Iter 266 Done.	 Loss : 0.01287
+Iter 267 Done.	 Loss : 0.00000
+Iter 268 Done.	 Loss : 0.00000
+Iter 269 Done.	 Loss : 0.00714
+Iter 270 Done.	 Loss : 0.00993
+Iteration : 270/760 [36%] 
+---------------------------
+[Train]	 Loss: 0.00993 | Acc: 100%
+[Test ]	 Loss: 0.01818 | Acc: 99%
+=========================================================
+Iter 271 Done.	 Loss : 0.00000
+Iter 272 Done.	 Loss : 0.02285
+Iter 273 Done.	 Loss : 0.00122
+Iter 274 Done.	 Loss : 0.01376
+Iter 275 Done.	 Loss : 0.01596
+Iter 276 Done.	 Loss : 0.00746
+Iter 277 Done.	 Loss : 0.00000
+Iter 278 Done.	 Loss : 0.00659
+Iter 279 Done.	 Loss : 0.02471
+Iter 280 Done.	 Loss : 0.01525
+Iter 281 Done.	 Loss : 0.00810
+Iter 282 Done.	 Loss : 0.00000
+Iter 283 Done.	 Loss : 0.00000
+Iter 284 Done.	 Loss : 0.01654
+Iter 285 Done.	 Loss : 0.01271
+Iteration : 285/760 [38%] 
+---------------------------
+[Train]	 Loss: 0.01271 | Acc: 100%
+[Test ]	 Loss: 0.01432 | Acc: 99%
+=========================================================
+Iter 286 Done.	 Loss : 0.00000
+Iter 287 Done.	 Loss : 0.02837
+Iter 288 Done.	 Loss : 0.00000
+Iter 289 Done.	 Loss : 0.02238
+Iter 290 Done.	 Loss : 0.00000
+Iter 291 Done.	 Loss : 0.01761
+Iter 292 Done.	 Loss : 0.00174
+Iter 293 Done.	 Loss : 0.01702
+Iter 294 Done.	 Loss : 0.01042
+Iter 295 Done.	 Loss : 0.00000
+Iter 296 Done.	 Loss : 0.02261
+Iter 297 Done.	 Loss : 0.01427
+Iter 298 Done.	 Loss : 0.00000
+Iter 299 Done.	 Loss : 0.02016
+Iter 300 Done.	 Loss : 0.00000
+Iteration : 300/760 [39%] 
+---------------------------
+[Train]	 Loss: 0.00000 | Acc: 100%
+[Test ]	 Loss: 0.00000 | Acc: 100%
+=========================================================
+Iter 301 Done.	 Loss : 0.00000
+Iter 302 Done.	 Loss : 0.00392
+Iter 303 Done.	 Loss : 0.00802
+Iter 304 Done.	 Loss : 0.00076
+Iter 305 Done.	 Loss : 0.00862
+Iter 306 Done.	 Loss : 0.03334
+Iter 307 Done.	 Loss : 0.01139
+Iter 308 Done.	 Loss : 0.00833
+Iter 309 Done.	 Loss : 0.01100
+Iter 310 Done.	 Loss : 0.01255
+Iter 311 Done.	 Loss : 0.01046
+Iter 312 Done.	 Loss : 0.00000
+Iter 313 Done.	 Loss : 0.00000
+Iter 314 Done.	 Loss : 0.00000
+Iter 315 Done.	 Loss : 0.00000
+Iteration : 315/760 [41%] 
+---------------------------
+[Train]	 Loss: 0.00000 | Acc: 100%
+[Test ]	 Loss: 0.00000 | Acc: 100%
+=========================================================
+Iter 316 Done.	 Loss : 0.00000
+Iter 317 Done.	 Loss : 0.00528
+Iter 318 Done.	 Loss : 0.02014
+Iter 319 Done.	 Loss : 0.00681
+Iter 320 Done.	 Loss : 0.01204
+Iter 321 Done.	 Loss : 0.00655
+Iter 322 Done.	 Loss : 0.00585
+Iter 323 Done.	 Loss : 0.00454
+Iter 324 Done.	 Loss : 0.02109
+Iter 325 Done.	 Loss : 0.03771
+Iter 326 Done.	 Loss : 0.00115
+Iter 327 Done.	 Loss : 0.01136
+Iter 328 Done.	 Loss : 0.00000
+Iter 329 Done.	 Loss : 0.00007
+Iter 330 Done.	 Loss : 0.00000
+Iteration : 330/760 [43%] 
+---------------------------
+[Train]	 Loss: 0.00000 | Acc: 100%
+[Test ]	 Loss: 0.00051 | Acc: 100%
+=========================================================
+Iter 331 Done.	 Loss : 0.00688
+Iter 332 Done.	 Loss : 0.00527
+Iter 333 Done.	 Loss : 0.00044
+Iter 334 Done.	 Loss : 0.00697
+Iter 335 Done.	 Loss : 0.00607
+Iter 336 Done.	 Loss : 0.00653
+Iter 337 Done.	 Loss : 0.00000
+Iter 338 Done.	 Loss : 0.00000
+Iter 339 Done.	 Loss : 0.00208
+Iter 340 Done.	 Loss : 0.00355
+Iter 341 Done.	 Loss : 0.01135
+Iter 342 Done.	 Loss : 0.00000
+Iter 343 Done.	 Loss : 0.00000
+Iter 344 Done.	 Loss : 0.01045
+Iter 345 Done.	 Loss : 0.00000
+Iteration : 345/760 [45%] 
+---------------------------
+[Train]	 Loss: 0.00000 | Acc: 100%
+[Test ]	 Loss: 0.00057 | Acc: 100%
+=========================================================
+Iter 346 Done.	 Loss : 0.00244
+Iter 347 Done.	 Loss : 0.00235
+Iter 348 Done.	 Loss : 0.00300
+Iter 349 Done.	 Loss : 0.00000
+Iter 350 Done.	 Loss : 0.02471
+Iter 351 Done.	 Loss : 0.02722
+Iter 352 Done.	 Loss : 0.00396
+Iter 353 Done.	 Loss : 0.00000
+Iter 354 Done.	 Loss : 0.00000
+Iter 355 Done.	 Loss : 0.00978
+Iter 356 Done.	 Loss : 0.00000
+Iter 357 Done.	 Loss : 0.00067
+Iter 358 Done.	 Loss : 0.01214
+Iter 359 Done.	 Loss : 0.00234
+Iter 360 Done.	 Loss : 0.00000
+Iteration : 360/760 [47%] 
+---------------------------
+[Train]	 Loss: 0.00000 | Acc: 100%
+[Test ]	 Loss: 0.00000 | Acc: 100%
+=========================================================
+Iter 361 Done.	 Loss : 0.00000
+Iter 362 Done.	 Loss : 0.00199
+Iter 363 Done.	 Loss : 0.00000
+Iter 364 Done.	 Loss : 0.00535
+Iter 365 Done.	 Loss : 0.00817
+Iter 366 Done.	 Loss : 0.00000
+Iter 367 Done.	 Loss : 0.00000
+Iter 368 Done.	 Loss : 0.00000
+Iter 369 Done.	 Loss : 0.00000
+Iter 370 Done.	 Loss : 0.00000
+Iter 371 Done.	 Loss : 0.00000
+Iter 372 Done.	 Loss : 0.00132
+Iter 373 Done.	 Loss : 0.00000
+Iter 374 Done.	 Loss : 0.00998
+Iter 375 Done.	 Loss : 0.01437
+Iteration : 375/760 [49%] 
+---------------------------
+[Train]	 Loss: 0.01437 | Acc: 100%
+[Test ]	 Loss: 0.00000 | Acc: 100%
+=========================================================
+Iter 376 Done.	 Loss : 0.00699
+Iter 377 Done.	 Loss : 0.00335
+Iter 378 Done.	 Loss : 0.00430
+Iter 379 Done.	 Loss : 0.00000
+Iter 380 Done.	 Loss : 0.00985
+Iter 381 Done.	 Loss : 0.02798
+Iter 382 Done.	 Loss : 0.00421
+Iter 383 Done.	 Loss : 0.01579
+Iter 384 Done.	 Loss : 0.00000
+Iter 385 Done.	 Loss : 0.00546
+Iter 386 Done.	 Loss : 0.01711
+Iter 387 Done.	 Loss : 0.00000
+Iter 388 Done.	 Loss : 0.00452
+Iter 389 Done.	 Loss : 0.01316
+Iter 390 Done.	 Loss : 0.00000
+Iteration : 390/760 [51%] 
+---------------------------
+[Train]	 Loss: 0.00000 | Acc: 100%
+[Test ]	 Loss: 0.00214 | Acc: 100%
+=========================================================
+Iter 391 Done.	 Loss : 0.00000
+Iter 392 Done.	 Loss : 0.01824
+Iter 393 Done.	 Loss : 0.00217
+Iter 394 Done.	 Loss : 0.00557
+Iter 395 Done.	 Loss : 0.00000
+Iter 396 Done.	 Loss : 0.00000
+Iter 397 Done.	 Loss : 0.00000
+Iter 398 Done.	 Loss : 0.00245
+Iter 399 Done.	 Loss : 0.01419
+Iter 400 Done.	 Loss : 0.00000
+Iter 401 Done.	 Loss : 0.01299
+Iter 402 Done.	 Loss : 0.00752
+Iter 403 Done.	 Loss : 0.00000
+Iter 404 Done.	 Loss : 0.03586
+Iter 405 Done.	 Loss : 0.00000
+Iteration : 405/760 [53%] 
+---------------------------
+[Train]	 Loss: 0.00000 | Acc: 100%
+[Test ]	 Loss: 0.01417 | Acc: 99%
+=========================================================
+Iter 406 Done.	 Loss : 0.00000
+Iter 407 Done.	 Loss : 0.01228
+Iter 408 Done.	 Loss : 0.00919
+Iter 409 Done.	 Loss : 0.00000
+Iter 410 Done.	 Loss : 0.00000
+Iter 411 Done.	 Loss : 0.00000
+Iter 412 Done.	 Loss : 0.00769
+Iter 413 Done.	 Loss : 0.00000
+Iter 414 Done.	 Loss : 0.00000
+Iter 415 Done.	 Loss : 0.00332
+Iter 416 Done.	 Loss : 0.00367
+Iter 417 Done.	 Loss : 0.01834
+Iter 418 Done.	 Loss : 0.00000
+Iter 419 Done.	 Loss : 0.01011
+Iter 420 Done.	 Loss : 0.01996
+Iteration : 420/760 [55%] 
+---------------------------
+[Train]	 Loss: 0.01996 | Acc: 99%
+[Test ]	 Loss: 0.00000 | Acc: 100%
+=========================================================
+Iter 421 Done.	 Loss : 0.00000
+Iter 422 Done.	 Loss : 0.00717
+Iter 423 Done.	 Loss : 0.00642
+Iter 424 Done.	 Loss : 0.00000
+Iter 425 Done.	 Loss : 0.00245
+Iter 426 Done.	 Loss : 0.00000
+Iter 427 Done.	 Loss : 0.00000
+Iter 428 Done.	 Loss : 0.00000
+Iter 429 Done.	 Loss : 0.00000
+Iter 430 Done.	 Loss : 0.01025
+Iter 431 Done.	 Loss : 0.00054
+Iter 432 Done.	 Loss : 0.00000
+Iter 433 Done.	 Loss : 0.00388
+Iter 434 Done.	 Loss : 0.00000
+Iter 435 Done.	 Loss : 0.01201
+Iteration : 435/760 [57%] 
+---------------------------
+[Train]	 Loss: 0.01201 | Acc: 99%
+[Test ]	 Loss: 0.00267 | Acc: 100%
+=========================================================
+Iter 436 Done.	 Loss : 0.00000
+Iter 437 Done.	 Loss : 0.00395
+Iter 438 Done.	 Loss : 0.00132
+Iter 439 Done.	 Loss : 0.00000
+Iter 440 Done.	 Loss : 0.00670
+Iter 441 Done.	 Loss : 0.01087
+Iter 442 Done.	 Loss : 0.00354
+Iter 443 Done.	 Loss : 0.00000
+Iter 444 Done.	 Loss : 0.01001
+Iter 445 Done.	 Loss : 0.00000
+Iter 446 Done.	 Loss : 0.01139
+Iter 447 Done.	 Loss : 0.00000
+Iter 448 Done.	 Loss : 0.00168
+Iter 449 Done.	 Loss : 0.00909
+Iter 450 Done.	 Loss : 0.00782
+Iteration : 450/760 [59%] 
+---------------------------
+[Train]	 Loss: 0.00782 | Acc: 100%
+[Test ]	 Loss: 0.01378 | Acc: 99%
+=========================================================
+Iter 451 Done.	 Loss : 0.00235
+Iter 452 Done.	 Loss : 0.00000
+Iter 453 Done.	 Loss : 0.00000
+Iter 454 Done.	 Loss : 0.00681
+Iter 455 Done.	 Loss : 0.00000
+Iter 456 Done.	 Loss : 0.00550
+Iter 457 Done.	 Loss : 0.00490
+Iter 458 Done.	 Loss : 0.00000
+Iter 459 Done.	 Loss : 0.00617
+Iter 460 Done.	 Loss : 0.00767
+Iter 461 Done.	 Loss : 0.00106
+Iter 462 Done.	 Loss : 0.00096
+Iter 463 Done.	 Loss : 0.00000
+Iter 464 Done.	 Loss : 0.00000
+Iter 465 Done.	 Loss : 0.01276
+Iteration : 465/760 [61%] 
+---------------------------
+[Train]	 Loss: 0.01276 | Acc: 99%
+[Test ]	 Loss: 0.00303 | Acc: 100%
+=========================================================
+Iter 466 Done.	 Loss : 0.00202
+Iter 467 Done.	 Loss : 0.00034
+Iter 468 Done.	 Loss : 0.01257
+Iter 469 Done.	 Loss : 0.00000
+Iter 470 Done.	 Loss : 0.00000
+Iter 471 Done.	 Loss : 0.00000
+Iter 472 Done.	 Loss : 0.00000
+Iter 473 Done.	 Loss : 0.00786
+Iter 474 Done.	 Loss : 0.00555
+Iter 475 Done.	 Loss : 0.00185
+Iter 476 Done.	 Loss : 0.00898
+Iter 477 Done.	 Loss : 0.01247
+Iter 478 Done.	 Loss : 0.00000
+Iter 479 Done.	 Loss : 0.00000
+Iter 480 Done.	 Loss : 0.00000
+Iteration : 480/760 [63%] 
+---------------------------
+[Train]	 Loss: 0.00000 | Acc: 100%
+[Test ]	 Loss: 0.00385 | Acc: 100%
+=========================================================
+Iter 481 Done.	 Loss : 0.00000
+Iter 482 Done.	 Loss : 0.00166
+Iter 483 Done.	 Loss : 0.00000
+Iter 484 Done.	 Loss : 0.00000
+Iter 485 Done.	 Loss : 0.00000
+Iter 486 Done.	 Loss : 0.00834
+Iter 487 Done.	 Loss : 0.00000
+Iter 488 Done.	 Loss : 0.00354
+Iter 489 Done.	 Loss : 0.01305
+Iter 490 Done.	 Loss : 0.00084
+Iter 491 Done.	 Loss : 0.00000
+Iter 492 Done.	 Loss : 0.00000
+Iter 493 Done.	 Loss : 0.00330
+Iter 494 Done.	 Loss : 0.00191
+Iter 495 Done.	 Loss : 0.00000
+Iteration : 495/760 [65%] 
+---------------------------
+[Train]	 Loss: 0.00000 | Acc: 100%
+[Test ]	 Loss: 0.00000 | Acc: 100%
+=========================================================
+Iter 496 Done.	 Loss : 0.00037
+Iter 497 Done.	 Loss : 0.00000
+Iter 498 Done.	 Loss : 0.00641
+Iter 499 Done.	 Loss : 0.00000
+Iter 500 Done.	 Loss : 0.00273
+Iter 501 Done.	 Loss : 0.00591
+Iter 502 Done.	 Loss : 0.00000
+Iter 503 Done.	 Loss : 0.00000
+Iter 504 Done.	 Loss : 0.00000
+Iter 505 Done.	 Loss : 0.00537
+Iter 506 Done.	 Loss : 0.00000
+Iter 507 Done.	 Loss : 0.01488
+Iter 508 Done.	 Loss : 0.00000
+Iter 509 Done.	 Loss : 0.00152
+Iter 510 Done.	 Loss : 0.00000
+Iteration : 510/760 [67%] 
+---------------------------
+[Train]	 Loss: 0.00000 | Acc: 100%
+[Test ]	 Loss: 0.00004 | Acc: 100%
+=========================================================
+Iter 511 Done.	 Loss : 0.00000
+Iter 512 Done.	 Loss : 0.01157
+Iter 513 Done.	 Loss : 0.00000
+Iter 514 Done.	 Loss : 0.00679
+Iter 515 Done.	 Loss : 0.00000
+Iter 516 Done.	 Loss : 0.00000
+Iter 517 Done.	 Loss : 0.01079
+Iter 518 Done.	 Loss : 0.00000
+Iter 519 Done.	 Loss : 0.00134
+Iter 520 Done.	 Loss : 0.00045
+Iter 521 Done.	 Loss : 0.00378
+Iter 522 Done.	 Loss : 0.00031
+Iter 523 Done.	 Loss : 0.00259
+Iter 524 Done.	 Loss : 0.00000
+Iter 525 Done.	 Loss : 0.00000
+Iteration : 525/760 [69%] 
+---------------------------
+[Train]	 Loss: 0.00000 | Acc: 100%
+[Test ]	 Loss: 0.00198 | Acc: 100%
+=========================================================
+Iter 526 Done.	 Loss : 0.02605
+Iter 527 Done.	 Loss : 0.00000
+Iter 528 Done.	 Loss : 0.00000
+Iter 529 Done.	 Loss : 0.00000
+Iter 530 Done.	 Loss : 0.00293
+Iter 531 Done.	 Loss : 0.00496
+Iter 532 Done.	 Loss : 0.00027
+Iter 533 Done.	 Loss : 0.00000
+Iter 534 Done.	 Loss : 0.00815
+Iter 535 Done.	 Loss : 0.00208
+Iter 536 Done.	 Loss : 0.00000
+Iter 537 Done.	 Loss : 0.00000
+Iter 538 Done.	 Loss : 0.00000
+Iter 539 Done.	 Loss : 0.00130
+Iter 540 Done.	 Loss : 0.00000
+Iteration : 540/760 [71%] 
+---------------------------
+[Train]	 Loss: 0.00000 | Acc: 100%
+[Test ]	 Loss: 0.00640 | Acc: 100%
+=========================================================
+Iter 541 Done.	 Loss : 0.00000
+Iter 542 Done.	 Loss : 0.00876
+Iter 543 Done.	 Loss : 0.00000
+Iter 544 Done.	 Loss : 0.00000
+Iter 545 Done.	 Loss : 0.00738
+Iter 546 Done.	 Loss : 0.00000
+Iter 547 Done.	 Loss : 0.00000
+Iter 548 Done.	 Loss : 0.00000
+Iter 549 Done.	 Loss : 0.00000
+Iter 550 Done.	 Loss : 0.00000
+Iter 551 Done.	 Loss : 0.00000
+Iter 552 Done.	 Loss : 0.00000
+Iter 553 Done.	 Loss : 0.01406
+Iter 554 Done.	 Loss : 0.00000
+Iter 555 Done.	 Loss : 0.00000
+Iteration : 555/760 [73%] 
+---------------------------
+[Train]	 Loss: 0.00000 | Acc: 100%
+[Test ]	 Loss: 0.02473 | Acc: 99%
+=========================================================
+Iter 556 Done.	 Loss : 0.00000
+Iter 557 Done.	 Loss : 0.00000
+Iter 558 Done.	 Loss : 0.00022
+Iter 559 Done.	 Loss : 0.00748
+Iter 560 Done.	 Loss : 0.00000
+Iter 561 Done.	 Loss : 0.00000
+Iter 562 Done.	 Loss : 0.00381
+Iter 563 Done.	 Loss : 0.00000
+Iter 564 Done.	 Loss : 0.00000
+Iter 565 Done.	 Loss : 0.00380
+Iter 566 Done.	 Loss : 0.00000
+Iter 567 Done.	 Loss : 0.00000
+Iter 568 Done.	 Loss : 0.00000
+Iter 569 Done.	 Loss : 0.00000
+Iter 570 Done.	 Loss : 0.00000
+Iteration : 570/760 [75%] 
+---------------------------
+[Train]	 Loss: 0.00000 | Acc: 100%
+[Test ]	 Loss: 0.00000 | Acc: 100%
+=========================================================
+Iter 571 Done.	 Loss : 0.00000
+Iter 572 Done.	 Loss : 0.00668
+Iter 573 Done.	 Loss : 0.00000
+Iter 574 Done.	 Loss : 0.00000
+Iter 575 Done.	 Loss : 0.00300
+Iter 576 Done.	 Loss : 0.00229
+Iter 577 Done.	 Loss : 0.00000
+Iter 578 Done.	 Loss : 0.00000
+Iter 579 Done.	 Loss : 0.00000
+Iter 580 Done.	 Loss : 0.01718
+Iter 581 Done.	 Loss : 0.00261
+Iter 582 Done.	 Loss : 0.00423
+Iter 583 Done.	 Loss : 0.00000
+Iter 584 Done.	 Loss : 0.00280
+Iter 585 Done.	 Loss : 0.00000
+Iteration : 585/760 [77%] 
+---------------------------
+[Train]	 Loss: 0.00000 | Acc: 100%
+[Test ]	 Loss: 0.00000 | Acc: 100%
+=========================================================
+Iter 586 Done.	 Loss : 0.00000
+Iter 587 Done.	 Loss : 0.00423
+Iter 588 Done.	 Loss : 0.00607
+Iter 589 Done.	 Loss : 0.00196
+Iter 590 Done.	 Loss : 0.00000
+Iter 591 Done.	 Loss : 0.00000
+Iter 592 Done.	 Loss : 0.00000
+Iter 593 Done.	 Loss : 0.00000
+Iter 594 Done.	 Loss : 0.00000
+Iter 595 Done.	 Loss : 0.00109
+Iter 596 Done.	 Loss : 0.00078
+Iter 597 Done.	 Loss : 0.00000
+Iter 598 Done.	 Loss : 0.00247
+Iter 599 Done.	 Loss : 0.00439
+Iter 600 Done.	 Loss : 0.00000
+Iteration : 600/760 [79%] 
+---------------------------
+[Train]	 Loss: 0.00000 | Acc: 100%
+[Test ]	 Loss: 0.00000 | Acc: 100%
+=========================================================
+Iter 601 Done.	 Loss : 0.00000
+Iter 602 Done.	 Loss : 0.00000
+Iter 603 Done.	 Loss : 0.00000
+Iter 604 Done.	 Loss : 0.00223
+Iter 605 Done.	 Loss : 0.00000
+Iter 606 Done.	 Loss : 0.00215
+Iter 607 Done.	 Loss : 0.00146
+Iter 608 Done.	 Loss : 0.00000
+Iter 609 Done.	 Loss : 0.00077
+Iter 610 Done.	 Loss : 0.00000
+Iter 611 Done.	 Loss : 0.00130
+Iter 612 Done.	 Loss : 0.00000
+Iter 613 Done.	 Loss : 0.00592
+Iter 614 Done.	 Loss : 0.00198
+Iter 615 Done.	 Loss : 0.00000
+Iteration : 615/760 [81%] 
+---------------------------
+[Train]	 Loss: 0.00000 | Acc: 100%
+[Test ]	 Loss: 0.00303 | Acc: 100%
+=========================================================
+Iter 616 Done.	 Loss : 0.00000
+Iter 617 Done.	 Loss : 0.00560
+Iter 618 Done.	 Loss : 0.00387
+Iter 619 Done.	 Loss : 0.00000
+Iter 620 Done.	 Loss : 0.00000
+Iter 621 Done.	 Loss : 0.00000
+Iter 622 Done.	 Loss : 0.00000
+Iter 623 Done.	 Loss : 0.00000
+Iter 624 Done.	 Loss : 0.00153
+Iter 625 Done.	 Loss : 0.00273
+Iter 626 Done.	 Loss : 0.00000
+Iter 627 Done.	 Loss : 0.00000
+Iter 628 Done.	 Loss : 0.00000
+Iter 629 Done.	 Loss : 0.00000
+Iter 630 Done.	 Loss : 0.00000
+Iteration : 630/760 [83%] 
+---------------------------
+[Train]	 Loss: 0.00000 | Acc: 100%
+[Test ]	 Loss: 0.00000 | Acc: 100%
+=========================================================
+Iter 631 Done.	 Loss : 0.00668
+Iter 632 Done.	 Loss : 0.00000
+Iter 633 Done.	 Loss : 0.00000
+Iter 634 Done.	 Loss : 0.00000
+Iter 635 Done.	 Loss : 0.00000
+Iter 636 Done.	 Loss : 0.00000
+Iter 637 Done.	 Loss : 0.00040
+Iter 638 Done.	 Loss : 0.00875
+Iter 639 Done.	 Loss : 0.00000
+Iter 640 Done.	 Loss : 0.00000
+Iter 641 Done.	 Loss : 0.00000
+Iter 642 Done.	 Loss : 0.00000
+Iter 643 Done.	 Loss : 0.00000
+Iter 644 Done.	 Loss : 0.00000
+Iter 645 Done.	 Loss : 0.00000
+Iteration : 645/760 [85%] 
+---------------------------
+[Train]	 Loss: 0.00000 | Acc: 100%
+[Test ]	 Loss: 0.00000 | Acc: 100%
+=========================================================
+Iter 646 Done.	 Loss : 0.00000
+Iter 647 Done.	 Loss : 0.00072
+Iter 648 Done.	 Loss : 0.00000
+Iter 649 Done.	 Loss : 0.00000
+Iter 650 Done.	 Loss : 0.00000
+Iter 651 Done.	 Loss : 0.00000
+Iter 652 Done.	 Loss : 0.00228
+Iter 653 Done.	 Loss : 0.00037
+Iter 654 Done.	 Loss : 0.00117
+Iter 655 Done.	 Loss : 0.00000
+Iter 656 Done.	 Loss : 0.00465
+Iter 657 Done.	 Loss : 0.00000
+Iter 658 Done.	 Loss : 0.00000
+Iter 659 Done.	 Loss : 0.00000
+Iter 660 Done.	 Loss : 0.00000
+Iteration : 660/760 [87%] 
+---------------------------
+[Train]	 Loss: 0.00000 | Acc: 100%
+[Test ]	 Loss: 0.02409 | Acc: 99%
+=========================================================
+Iter 661 Done.	 Loss : 0.00000
+Iter 662 Done.	 Loss : 0.00000
+Iter 663 Done.	 Loss : 0.00000
+Iter 664 Done.	 Loss : 0.00280
+Iter 665 Done.	 Loss : 0.00000
+Iter 666 Done.	 Loss : 0.00000
+Iter 667 Done.	 Loss : 0.00000
+Iter 668 Done.	 Loss : 0.00000
+Iter 669 Done.	 Loss : 0.00000
+Iter 670 Done.	 Loss : 0.01611
+Iter 671 Done.	 Loss : 0.00000
+Iter 672 Done.	 Loss : 0.00000
+Iter 673 Done.	 Loss : 0.00410
+Iter 674 Done.	 Loss : 0.00000
+Iter 675 Done.	 Loss : 0.00000
+Iteration : 675/760 [89%] 
+---------------------------
+[Train]	 Loss: 0.00000 | Acc: 100%
+[Test ]	 Loss: 0.00387 | Acc: 100%
+=========================================================
+Iter 676 Done.	 Loss : 0.00000
+Iter 677 Done.	 Loss : 0.00000
+Iter 678 Done.	 Loss : 0.00411
+Iter 679 Done.	 Loss : 0.00789
+Iter 680 Done.	 Loss : 0.00000
+Iter 681 Done.	 Loss : 0.00000
+Iter 682 Done.	 Loss : 0.00000
+Iter 683 Done.	 Loss : 0.00000
+Iter 684 Done.	 Loss : 0.00000
+Iter 685 Done.	 Loss : 0.00289
+Iter 686 Done.	 Loss : 0.00000
+Iter 687 Done.	 Loss : 0.00000
+Iter 688 Done.	 Loss : 0.00000
+Iter 689 Done.	 Loss : 0.01624
+Iter 690 Done.	 Loss : 0.00000
+Iteration : 690/760 [91%] 
+---------------------------
+[Train]	 Loss: 0.00000 | Acc: 100%
+[Test ]	 Loss: 0.00000 | Acc: 100%
+=========================================================
+Iter 691 Done.	 Loss : 0.00000
+Iter 692 Done.	 Loss : 0.00000
+Iter 693 Done.	 Loss : 0.00000
+Iter 694 Done.	 Loss : 0.00423
+Iter 695 Done.	 Loss : 0.00000
+Iter 696 Done.	 Loss : 0.00000
+Iter 697 Done.	 Loss : 0.00000
+Iter 698 Done.	 Loss : 0.00000
+Iter 699 Done.	 Loss : 0.00230
+Iter 700 Done.	 Loss : 0.00000
+Iter 701 Done.	 Loss : 0.00000
+Iter 702 Done.	 Loss : 0.00004
+Iter 703 Done.	 Loss : 0.00000
+Iter 704 Done.	 Loss : 0.00053
+Iter 705 Done.	 Loss : 0.00000
+Iteration : 705/760 [93%] 
+---------------------------
+[Train]	 Loss: 0.00000 | Acc: 100%
+[Test ]	 Loss: 0.00000 | Acc: 100%
+=========================================================
+Iter 706 Done.	 Loss : 0.00502
+Iter 707 Done.	 Loss : 0.00000
+Iter 708 Done.	 Loss : 0.00000
+Iter 709 Done.	 Loss : 0.00103
+Iter 710 Done.	 Loss : 0.00000
+Iter 711 Done.	 Loss : 0.00000
+Iter 712 Done.	 Loss : 0.00000
+Iter 713 Done.	 Loss : 0.00695
+Iter 714 Done.	 Loss : 0.00000
+Iter 715 Done.	 Loss : 0.00000
+Iter 716 Done.	 Loss : 0.00000
+Iter 717 Done.	 Loss : 0.00000
+Iter 718 Done.	 Loss : 0.00463
+Iter 719 Done.	 Loss : 0.00000
+Iter 720 Done.	 Loss : 0.00000
+Iteration : 720/760 [95%] 
+---------------------------
+[Train]	 Loss: 0.00000 | Acc: 100%
+[Test ]	 Loss: 0.00853 | Acc: 100%
+=========================================================
+Iter 721 Done.	 Loss : 0.00000
+Iter 722 Done.	 Loss : 0.00953
+Iter 723 Done.	 Loss : 0.00000
+Iter 724 Done.	 Loss : 0.00000
+Iter 725 Done.	 Loss : 0.00214
+Iter 726 Done.	 Loss : 0.00000
+Iter 727 Done.	 Loss : 0.00000
+Iter 728 Done.	 Loss : 0.00000
+Iter 729 Done.	 Loss : 0.00000
+Iter 730 Done.	 Loss : 0.00187
+Iter 731 Done.	 Loss : 0.02375
+Iter 732 Done.	 Loss : 0.00072
+Iter 733 Done.	 Loss : 0.00000
+Iter 734 Done.	 Loss : 0.00176
+Iter 735 Done.	 Loss : 0.00000
+Iteration : 735/760 [97%] 
+---------------------------
+[Train]	 Loss: 0.00000 | Acc: 100%
+[Test ]	 Loss: 0.00000 | Acc: 100%
+=========================================================
+Iter 736 Done.	 Loss : 0.00119
+Iter 737 Done.	 Loss : 0.00000
+Iter 738 Done.	 Loss : 0.00000
+Iter 739 Done.	 Loss : 0.00883
+Iter 740 Done.	 Loss : 0.00000
+Iter 741 Done.	 Loss : 0.01717
+Iter 742 Done.	 Loss : 0.00000
+Iter 743 Done.	 Loss : 0.00000
+Iter 744 Done.	 Loss : 0.00000
+Iter 745 Done.	 Loss : 0.00275
+Iter 746 Done.	 Loss : 0.00000
+Iter 747 Done.	 Loss : 0.00000
+Iter 748 Done.	 Loss : 0.00347
+Iter 749 Done.	 Loss : 0.00000
+Iter 750 Done.	 Loss : 0.00615
+Iteration : 750/760 [99%] 
+---------------------------
+[Train]	 Loss: 0.00615 | Acc: 100%
+[Test ]	 Loss: 0.00000 | Acc: 100%
+=========================================================
+Iter 751 Done.	 Loss : 0.00000
+Iter 752 Done.	 Loss : 0.01257
+Iter 753 Done.	 Loss : 0.00234
+Iter 754 Done.	 Loss : 0.00000
+Iter 755 Done.	 Loss : 0.00000
+Iter 756 Done.	 Loss : 0.00000
+Iter 757 Done.	 Loss : 0.00000
+Iter 758 Done.	 Loss : 0.00000
+
+Training Done.
